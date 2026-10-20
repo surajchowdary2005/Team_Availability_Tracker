@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "name": "Suraj Chowdary",
+    "role": "Team Leader",
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "name": "Rahul",
+    "role": "Frontend Developer",
+    "status": "Busy"
+  },
+  {
+    "id": 3,
+    "name": "Priya",
+    "role": "Backend Developer",
+    "status": "Away"
+  },
+  {
+    "id": 4,
+    "name": "Kiran",
+    "role": "UI/UX Designer",
+    "status": "Available"
+  }
+]
